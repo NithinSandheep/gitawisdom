@@ -1,0 +1,963 @@
+[
+  {
+    "chapter": 2,
+    "verse": 47,
+    "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।\nमा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+    "translation": "You have a right to perform your prescribed duties, but you are not entitled to the fruits of your actions.",
+    "theme": "karma",
+    "interpretation": "Focus on the effort and the process, not the results. Do your duty without being motivated by success or failure."
+  },
+  {
+    "chapter": 4,
+    "verse": 7,
+    "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+    "translation": "Whenever there is a decline in righteousness and a rise in unrighteousness, O Bharata, I manifest Myself.",
+    "theme": "dharma",
+    "interpretation": "The Divine intervenes in the world to restore balance whenever moral values and truth are in danger."
+  },
+  {
+    "chapter": 2,
+    "verse": 20,
+    "sanskrit": "न जायते म्रियते वा कदाचिन् नायं भूत्वा भविता वा न भूयः।\nअजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे॥",
+    "translation": "The soul is neither born, nor does it ever die; nor having once existed, does it ever cease to be. It is unborn, eternal, ever-existing and primeval.",
+    "theme": "jnana",
+    "interpretation": "The true self (atman) is immortal. Physical death only affects the body, while the soul remains untouched and eternal."
+  },
+  {
+    "chapter": 6,
+    "verse": 5,
+    "sanskrit": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥",
+    "translation": "One must deliver himself with the help of his mind, and not degrade himself. The mind is the friend of the conditioned soul, and his enemy as well.",
+    "theme": "meditation",
+    "interpretation": "You are your own greatest friend or enemy. Use your willpower and mind to lift yourself up rather than letting negative thoughts pull you down."
+  },
+  {
+    "chapter": 9,
+    "verse": 22,
+    "sanskrit": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते।\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम्॥",
+    "translation": "But those who always worship Me with exclusive devotion, meditating on My transcendental form—to them I carry what they lack, and I preserve what they have.",
+    "theme": "bhakti",
+    "interpretation": "If you focus entirely on the Divine with faith, God takes responsibility for your well-being and provides for your needs."
+  },
+  {
+    "chapter": 18,
+    "verse": 66,
+    "sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।\nअहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥",
+    "translation": "Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions. Do not fear.",
+    "theme": "bhakti",
+    "interpretation": "The ultimate spiritual step is total surrender to the Divine, which liberates one from all past burdens and anxieties."
+  },
+  {
+    "chapter": 2,
+    "verse": 48,
+    "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।\nसिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥",
+    "translation": "Perform your duty equipoised, O Arjuna, abandoning all attachment to success or failure. Such equanimity is called yoga.",
+    "theme": "yoga",
+    "interpretation": "Yoga is not just physical poses; it is the mental state of balance and calmness regardless of external circumstances."
+  },
+  {
+    "chapter": 3,
+    "verse": 19,
+    "sanskrit": "तस्मादसक्तः सततं कार्यं कर्म समाचर।\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः॥",
+    "translation": "Therefore, without being attached to the fruits of activities, one should act as a matter of duty, for by working without attachment one attains the Supreme.",
+    "theme": "karma",
+    "interpretation": "Consistent action performed as a duty without personal selfishness is the path to spiritual perfection."
+  },
+  {
+    "chapter": 10,
+    "verse": 8,
+    "sanskrit": "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते।\nइति मत्वा भजन्ते मां बुधा भावसमन्विताः॥",
+    "translation": "I am the source of all spiritual and material worlds. Everything emanates from Me. The wise who perfectly know this engage in My devotional service.",
+    "theme": "jnana",
+    "interpretation": "Recognizing that everything in existence comes from a single Divine source leads to deep devotion and wisdom."
+  },
+  {
+    "chapter": 2,
+    "verse": 62,
+    "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते।\nसङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते॥",
+    "translation": "While contemplating the objects of the senses, a person develops attachment for them, and from such attachment lust develops, and from lust anger arises.",
+    "theme": "meditation",
+    "interpretation": "Our thoughts dictate our desires. Obsessing over material things leads to attachment, which inevitably leads to frustration and anger."
+  },
+  {
+    "chapter": 2,
+    "verse": 63,
+    "sanskrit": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः।\nस्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥",
+    "translation": "From anger comes complete delusion, and from delusion bewilderment of memory. When memory is bewildered, intelligence is lost, and when intelligence is lost one falls down.",
+    "theme": "meditation",
+    "interpretation": "Anger clouds judgment. It destroys our ability to think clearly and remember our values, eventually leading to our downfall."
+  },
+  {
+    "chapter": 7,
+    "verse": 19,
+    "sanskrit": "बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते।\nवासुदेवः सर्वमिति स महात्मा सुदुर्लभः॥",
+    "translation": "After many births and deaths, he who is actually in knowledge surrenders unto Me, knowing Me to be the cause of all causes and all that is. Such a great soul is very rare.",
+    "theme": "jnana",
+    "interpretation": "True wisdom is realizing that the Divine is present in everything and everyone. This realization usually comes after a long journey of seeking."
+  },
+  {
+    "chapter": 4,
+    "verse": 34,
+    "sanskrit": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया।\nउपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः॥",
+    "translation": "Just try to learn the truth by approaching a spiritual master. Inquire from him submissively and render service unto him. The realized souls can impart knowledge unto you because they have seen the truth.",
+    "theme": "jnana",
+    "interpretation": "To understand deep spiritual truths, one needs guidance from a teacher who has personally experienced those truths."
+  },
+  {
+    "chapter": 12,
+    "verse": 13,
+    "sanskrit": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।\nनिर्ममो निरहङ्कारः समदुःखसुखः क्षमी॥",
+    "translation": "One who is not envious but is a kind friend to all living entities, who does not think himself a proprietor and is free from false ego, who is equal in both happiness and distress, who is tolerant.",
+    "theme": "bhakti",
+    "interpretation": "A true devotee is characterized by compassion, humility, and the ability to remain steady through life's ups and downs."
+  },
+  {
+    "chapter": 3,
+    "verse": 35,
+    "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।\nस्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥",
+    "translation": "It is far better to discharge one's own prescribed duties, even though faultily, than another's duties perfectly. Destruction in the course of performing one's own duty is better than engaging in another's duties.",
+    "theme": "dharma",
+    "interpretation": "Follow your own calling and nature. Trying to be someone else or doing someone else's job is spiritually dangerous and unfulfilling."
+  },
+  {
+    "chapter": 2,
+    "verse": 13,
+    "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा।\nतथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति॥",
+    "translation": "As the embodied soul continuously passes, in this body, from boyhood to youth to old age, the soul similarly passes into another body at death. A sober person is not bewildered by such a change.",
+    "theme": "jnana",
+    "interpretation": "Death is just a transition, similar to how we grow from a child to an adult. Understanding this removes the fear of dying."
+  },
+  {
+    "chapter": 9,
+    "verse": 26,
+    "sanskrit": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति।\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः॥",
+    "translation": "If one offers Me with love and devotion a leaf, a flower, fruit or water, I will accept it.",
+    "theme": "bhakti",
+    "interpretation": "God does not care about the cost of your offering, only the love and sincerity in your heart while offering it."
+  },
+  {
+    "chapter": 11,
+    "verse": 32,
+    "sanskrit": "कालोऽस्मि लोकक्षयकृत्प्रवृद्धो लोकान्समाहर्तुमिह प्रवृत्तः।",
+    "translation": "Time I am, the great destroyer of the worlds, and I have come here to destroy all people.",
+    "theme": "jnana",
+    "interpretation": "Everything in the material world is temporary. Time eventually claims all physical forms, emphasizing the need to focus on the eternal."
+  },
+  {
+    "chapter": 6,
+    "verse": 26,
+    "sanskrit": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम्।\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत्॥",
+    "translation": "From wherever the mind wanders due to its flickering and unsteady nature, one must certainly withdraw it and bring it back under the control of the Self.",
+    "theme": "meditation",
+    "interpretation": "Meditation is a practice of constant redirection. Every time your mind wanders, gently bring it back to your center."
+  },
+  {
+    "chapter": 15,
+    "verse": 7,
+    "sanskrit": "ममैवांशो जीवलोके जीवभूतः सनातनः।\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति॥",
+    "translation": "The living entities in this conditioned world are My eternal fragmental parts. Due to conditioned life, they are struggling very hard with the six senses, which include the mind.",
+    "theme": "jnana",
+    "interpretation": "Every soul is a part of the Divine. Our struggles come from being overly identified with our senses and mind instead of our spiritual nature."
+  },
+  {
+    "chapter": 5,
+    "verse": 18,
+    "sanskrit": "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि।\nशुनि चैव श्वपाके च पण्डिताः समदर्शिनः॥",
+    "translation": "The humble sages, by virtue of true knowledge, see with equal vision a learned and gentle brahmana, a cow, an elephant, a dog and a dog-eater.",
+    "theme": "jnana",
+    "interpretation": "True wisdom leads to seeing the same Divine spark in all living beings, regardless of their social status or species."
+  },
+  {
+    "chapter": 4,
+    "verse": 18,
+    "sanskrit": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः।\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत्॥",
+    "translation": "One who sees inaction in action, and action in inaction, is intelligent among men.",
+    "theme": "karma",
+    "interpretation": "A wise person stays mentally calm (inaction) even while working hard (action), and understands that even sitting still is an act of choice."
+  },
+  {
+    "chapter": 18,
+    "verse": 78,
+    "sanskrit": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः।\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम॥",
+    "translation": "Wherever there is Krishna, the master of all mystics, and wherever there is Arjuna, the supreme archer, there will also certainly be opulence, victory, extraordinary power, and morality.",
+    "theme": "yoga",
+    "interpretation": "Success and prosperity are guaranteed when Divine wisdom (Krishna) is combined with human effort and action (Arjuna)."
+  },
+  {
+    "chapter": 2,
+    "verse": 14,
+    "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।\nआगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत॥",
+    "translation": "O son of Kunti, the nonpermanent appearance of happiness and distress, and their disappearance in due course, are like the appearance and disappearance of winter and summer seasons. They arise from sense perception, O scion of Bharata, and one must learn to tolerate them without being disturbed.",
+    "theme": "jnana",
+    "interpretation": "Pleasure and pain are temporary phases like seasons. Learn to observe them with patience rather than reacting emotionally to every change."
+  },
+  {
+    "chapter": 3,
+    "verse": 21,
+    "sanskrit": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः।\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते॥",
+    "translation": "Whatever action a great man performs, common men follow. And whatever standards he sets by exemplary acts, all the world pursues.",
+    "theme": "dharma",
+    "interpretation": "Leaders have a responsibility to behave ethically, as their actions set the standard for society."
+  },
+  {
+    "chapter": 8,
+    "verse": 5,
+    "sanskrit": "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्।\nयः प्रयाति स मद्भावं याति नास्त्यत्र संशयः॥",
+    "translation": "And whoever, at the end of his life, quits his body remembering Me alone at once attains My nature. Of this there is no doubt.",
+    "theme": "bhakti",
+    "interpretation": "Your state of mind at the time of death determines your next destination. Constant practice of remembering the Divine ensures a peaceful transition."
+  },
+  {
+    "chapter": 4,
+    "verse": 8,
+    "sanskrit": "परित्राणाय साधूनां विनाशाय च दुष्कृताम्।\nधर्मसंस्थापनार्थाय सम्भवामि युगे युगे॥",
+    "translation": "To deliver the pious and to annihilate the miscreants, as well as to reestablish the principles of righteousness, I Myself appear, millennium after millennium.",
+    "theme": "dharma",
+    "interpretation": "The purpose of Divine incarnation is to protect the good, remove evil, and reset the moral compass of the world."
+  },
+  {
+    "chapter": 16,
+    "verse": 21,
+    "sanskrit": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः।\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत्॥",
+    "translation": "There are three gates leading to this hell—lust, anger and greed. Every sane man should give these up, for they lead to the degradation of the soul.",
+    "theme": "dharma",
+    "interpretation": "Desire, rage, and greed are the root causes of all human suffering and moral decay. Letting go of them is essential for inner peace."
+  },
+  {
+    "chapter": 2,
+    "verse": 22,
+    "sanskrit": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि।\nतथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही॥",
+    "translation": "As a person puts on new garments, giving up old ones, the soul similarly accepts new material bodies, giving up the old and useless ones.",
+    "theme": "jnana",
+    "interpretation": "Reincarnation is like changing clothes. The body wears out, but the person (soul) inside remains the same and simply moves to a new form."
+  },
+  {
+    "chapter": 18,
+    "verse": 63,
+    "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया।\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु॥",
+    "translation": "Thus I have explained to you knowledge still more confidential. Deliberate on this fully, and then do what you wish to do.",
+    "theme": "jnana",
+    "interpretation": "The Divine provides wisdom but respects human free will. You must analyze the truth and make your own choices."
+  },
+  {
+    "chapter": 6,
+    "verse": 34,
+    "sanskrit": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्दृढम्।\nतस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्॥",
+    "translation": "The mind is restless, turbulent, obstinate and very strong, O Krishna, and to subdue it, I think, is more difficult than controlling the wind.",
+    "theme": "meditation",
+    "interpretation": "It is naturally difficult to control the mind. Acknowledging this difficulty is the first step toward disciplined practice."
+  },
+  {
+    "chapter": 2,
+    "verse": 56,
+    "sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः।\nवीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते॥",
+    "translation": "One who is not disturbed in mind even amidst the threefold miseries or elated when there is happiness, and who is free from attachment, fear and anger, is called a sage of steady mind.",
+    "theme": "yoga",
+    "interpretation": "Maturity is being able to stay steady and calm, neither crushed by sorrow nor intoxicated by pleasure."
+  },
+  {
+    "chapter": 9,
+    "verse": 27,
+    "sanskrit": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्।\nयत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम्॥",
+    "translation": "Whatever you do, whatever you eat, whatever you offer or give away, and whatever austerities you perform—do that, O son of Kunti, as an offering to Me.",
+    "theme": "bhakti",
+    "interpretation": "Turn your daily life into a spiritual practice by dedicating all your actions and choices to a higher purpose."
+  },
+  {
+    "chapter": 4,
+    "verse": 38,
+    "sanskrit": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।\nतत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति॥",
+    "translation": "In this world, there is nothing so sublime and pure as transcendental knowledge. One who has become accomplished in the practice of yoga enjoys this knowledge within himself in due course of time.",
+    "theme": "jnana",
+    "interpretation": "Wisdom is the ultimate purifier. It cleanses the mind of doubts and illusions more effectively than anything else."
+  },
+  {
+    "chapter": 2,
+    "verse": 11,
+    "sanskrit": "श्रीभगवानुवाच।\nअशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे।\nगतासूनगतासूंश्च नानुशोचन्ति पण्डिताः॥",
+    "translation": "The Supreme Lord said: While speaking learned words, you are mourning for what is not worthy of grief. Those who are wise lament neither for the living nor for the dead.",
+    "theme": "jnana",
+    "interpretation": "Wisdom involves understanding the big picture of life and death, preventing us from getting lost in temporary sorrows."
+  },
+  {
+    "chapter": 5,
+    "verse": 10,
+    "sanskrit": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः।\nलिप्यते न स पापेन पद्मपत्रमिवाम्भसा॥",
+    "translation": "One who performs his duty without attachment, surrendering the results unto the Supreme Lord, is unaffected by sinful action, as the lotus leaf is untouched by water.",
+    "theme": "karma",
+    "interpretation": "Live in the world but don't let its negativity stick to you. Like a lotus leaf in a pond, stay in the environment without being soaked by it."
+  },
+  {
+    "chapter": 18,
+    "verse": 46,
+    "sanskrit": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम्।\nस्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः॥",
+    "translation": "By adoration of the Lord, who is the source of all beings and who is all-pervading, a man can attain perfection through performing his own work.",
+    "theme": "karma",
+    "interpretation": "You don't need to go to a cave to find God; you can worship the Divine through your professional and daily work by doing it excellently and honestly."
+  },
+  {
+    "chapter": 7,
+    "verse": 3,
+    "sanskrit": "मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये।\nयततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः॥",
+    "translation": "Out of many thousands among men, one may endeavor for perfection, and of those who have achieved perfection, hardly one knows Me in truth.",
+    "theme": "jnana",
+    "interpretation": "The path to true spiritual realization is rare and difficult, requiring great dedication that few choose to pursue fully."
+  },
+  {
+    "chapter": 2,
+    "verse": 70,
+    "sanskrit": "आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्।\nतद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी॥",
+    "translation": "A person who is not disturbed by the incessant flow of desires—that enter like rivers into the ocean, which is ever being filled but is always still—can alone achieve peace.",
+    "theme": "meditation",
+    "interpretation": "Peace comes not from fulfilling every desire, but from having a mind so deep and stable that desires don't create waves of disturbance."
+  },
+  {
+    "chapter": 15,
+    "verse": 15,
+    "sanskrit": "सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्ज्ञानमपोहनं च।",
+    "translation": "I am seated in everyone's heart, and from Me come remembrance, knowledge and forgetfulness.",
+    "theme": "jnana",
+    "interpretation": "The source of our intuition, memory, and wisdom is the Divine presence dwelling within our own consciousness."
+  },
+  {
+    "chapter": 10,
+    "verse": 41,
+    "sanskrit": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा।\nतत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम्॥",
+    "translation": "Know that all opulent, beautiful and glorious creations spring from but a spark of My splendor.",
+    "theme": "jnana",
+    "interpretation": "Whenever you see something extraordinary, beautiful, or powerful in the world, recognize it as a small reflection of Divine glory."
+  },
+  {
+    "chapter": 12,
+    "verse": 14,
+    "sanskrit": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः।\nमय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः॥",
+    "translation": "One who is always satisfied, self-controlled, and engaged in devotional service with determination, his mind and intelligence fixed on Me—such a devotee of Mine is very dear to Me.",
+    "theme": "bhakti",
+    "interpretation": "God loves those who are content with what they have, disciplined in their habits, and steady in their faith."
+  },
+  {
+    "chapter": 13,
+    "verse": 28,
+    "sanskrit": "समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम्।\nन हिनस्त्यात्मनात्मानं ततो याति परां गतिम्॥",
+    "translation": "One who sees the Supreme Lord everywhere, in every living being, does not degrade himself by his mind. Thus he approaches the transcendental destination.",
+    "theme": "jnana",
+    "interpretation": "Seeing the Divine in others prevents us from being violent or hateful, leading us toward spiritual evolution."
+  },
+  {
+    "chapter": 6,
+    "verse": 1,
+    "sanskrit": "अनाश्रितः कर्मफलं कार्यं कर्म करोति यः।\nस संन्यासी च योगी च न निरग्निर्न चाक्रियः॥",
+    "translation": "One who is unattached to the fruits of his work and who works as he is obligated is in the renounced order of life, and he is the true mystic.",
+    "theme": "yoga",
+    "interpretation": "True renunciation is not about giving up work or fire, but about giving up the ego and the selfish desire for results."
+  },
+  {
+    "chapter": 3,
+    "verse": 27,
+    "sanskrit": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः।\nअहङ्कारविमूढात्मा कर्ताहमिति मन्यते॥",
+    "translation": "The spirit soul bewildered by the influence of false ego thinks himself the doer of activities that are in actuality carried out by the three modes of material nature.",
+    "theme": "karma",
+    "interpretation": "We often take credit for things that are actually happening through the laws of nature. Humility comes from realizing we are not the sole 'doer'."
+  },
+  {
+    "chapter": 7,
+    "verse": 16,
+    "sanskrit": "चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन।\nआर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ॥",
+    "translation": "O best among the Bharatas, four kinds of pious men begin to render devotional service unto Me—the distressed, the desirer of wealth, the inquisitive, and he who is searching for knowledge of the Absolute.",
+    "theme": "bhakti",
+    "interpretation": "People turn to God for different reasons: pain, material needs, curiosity, or a genuine search for truth. All are accepted."
+  },
+  {
+    "chapter": 4,
+    "verse": 39,
+    "sanskrit": "श्रद्धावॉल्लभते ज्ञानं तत्परः संयतेन्द्रियः।\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥",
+    "translation": "A faithful man who is dedicated to transcendental knowledge and who subdues his senses is eligible to achieve such knowledge, and having achieved it he quickly attains the supreme spiritual peace.",
+    "theme": "jnana",
+    "interpretation": "Faith and self-discipline are the prerequisites for attaining wisdom, which then brings immediate inner peace."
+  },
+  {
+    "chapter": 2,
+    "verse": 12,
+    "sanskrit": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः।\nन चैव न भविष्यामः सर्वे वयमतः परम्॥",
+    "translation": "Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.",
+    "theme": "jnana",
+    "interpretation": "Life is a continuous stream. We have always existed in some form and will always continue to exist, as consciousness is eternal."
+  },
+  {
+    "chapter": 18,
+    "verse": 65,
+    "sanskrit": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु।\nमामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे॥",
+    "translation": "Always think of Me, become My devotee, worship Me and offer your homage unto Me. Thus you will come to Me without fail. I promise you this because you are My very dear friend.",
+    "theme": "bhakti",
+    "interpretation": "Keeping the Divine at the center of your consciousness is the most direct path to spiritual union and love."
+  },
+  {
+    "chapter": 1,
+    "verse": 1,
+    "sanskrit": "धर्मक्षेत्रे कुरुक्षेत्रे समवेता ययुत्सवः।\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय॥",
+    "translation": "Dhritarashtra said: O Sanjaya, after my sons and the sons of Pandu assembled in the place of pilgrimage at Kurukshetra, desiring to fight, what did they do?",
+    "theme": "dharma",
+    "interpretation": "The 'field of dharma' represents the inner battlefield of our lives where we must choose between our lower impulses and our higher values."
+  },
+  {
+    "chapter": 1,
+    "verse": 21,
+    "sanskrit": "ऋषीकेशं तदा वाक्यमिदमाह महीपते | सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ||",
+    "transliteration": "ṛṣīkeśaṃ tadā vākyamidamāha mahīpate | senayorubhayormadhye rathaṃ sthāpaya me'cyuta ||",
+    "translation": "Arjuna said: O Infallible One, please station my chariot between the two armies.",
+    "hindi_translation": "हे अच्युत! मेरा रथ दोनों सेनाओं के बीच में खड़ा करें।",
+    "theme": "yoga",
+    "interpretation": "This verse shows the moment of pausing before a major conflict to observe the situation objectively. It represents the need to stand in the center of life's dualities to understand them clearly.",
+    "life_situation": "decision_making"
+  },
+  {
+    "chapter": 2,
+    "verse": 3,
+    "sanskrit": "क्लैब्यं मा स्म गम: पार्थ नैतत्त्वय्युपपद्यते | क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ||",
+    "transliteration": "klaibyaṃ mā sma gamaḥ pārtha naitattvayyupapadyate | kṣudraṃ hṛdayadaurbalyaṃ tyaktvottiṣṭha parantapa ||",
+    "translation": "Do not yield to unmanliness, O son of Prtha. It does not become you. Cast off such petty weakness of heart and arise, O vanquisher of enemies.",
+    "hindi_translation": "हे पार्थ! नपुंसकता को मत प्राप्त हो, यह तेरे योग्य नहीं है। हृदय की तुच्छ दुर्बलता को त्यागकर युद्ध के लिए खड़े हो जाओ।",
+    "theme": "yoga",
+    "interpretation": "Krishna urges Arjuna to overcome emotional paralysis and self-doubt. It is a call to inner strength and resilience when faced with overwhelming odds.",
+    "life_situation": "motivation"
+  },
+  {
+    "chapter": 2,
+    "verse": 7,
+    "sanskrit": "कार्पण्यदोषोपहतस्वभाव: पृच्छामि त्वां धर्मसम्मूढचेता: | यच्छ्रेय: स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ||",
+    "transliteration": "kārpaṇyadoṣopahatasvabhāvaḥ pṛcchāmi tvāṃ dharmasammūḍhacetāḥ | yacchreyaḥ syānnniścitaṃ brūhi tanme śiṣyaste'haṃ śādhi māṃ tvāṃ prapannam ||",
+    "translation": "My natural spirit is overcome by the taint of pity, and my mind is confused regarding duty. I ask You: tell me for certain what is better for me. I am Your disciple; teach me, for I have taken refuge in You.",
+    "hindi_translation": "मैं अपने स्वभाव की कमजोरी के कारण भ्रमित हूँ। जो मेरे लिए निश्चित रूप से कल्याणकारी हो, वह मुझे बताइये। मैं आपका शिष्य हूँ, मुझे शिक्षा दें।",
+    "theme": "dharma",
+    "interpretation": "This marks the transition from confusion to seeking mentorship. Acknowledging that one doesn't have all the answers is the first step toward true wisdom.",
+    "life_situation": "decision_making"
+  },
+  {
+    "chapter": 2,
+    "verse": 16,
+    "sanskrit": "नासतो विद्यते भावो नाभावो विद्यते सतः । उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः ॥",
+    "transliteration": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ | ubhayorapi dṛṣṭo'ntastvanayostattvadarśibhiḥ ||",
+    "translation": "The unreal has no existence, and the real never ceases to be. The seers of truth have concluded this after studying the nature of both.",
+    "hindi_translation": "असत् वस्तु का कोई अस्तित्व नहीं है, और सत् का कभी अभाव नहीं होता। तत्त्वदर्शियों ने इन दोनों के स्वरूप को देखा है।",
+    "theme": "jnana",
+    "interpretation": "Differentiates between the temporary material world and the eternal soul. Understanding what is permanent helps one navigate the loss of temporary things with equanimity.",
+    "life_situation": "grief"
+  },
+  {
+    "chapter": 2,
+    "verse": 38,
+    "sanskrit": "सुखदु:खे समे कृत्वा लाभालाभौ जयाजयौ | ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ||",
+    "transliteration": "sukhadu:khe same kṛtvā lābhālābhau jayājayau | tato yuddhāya yujyasva naivaṃ pāpamavāpsyasi ||",
+    "translation": "Treating alike pleasure and pain, gain and loss, victory and defeat, then engage in battle. Thus, you shall not incur sin.",
+    "hindi_translation": "सुख-दुःख, लाभ-हानि और जय-पराजय को समान मानकर युद्ध करो, इससे तुम्हें पाप नहीं लगेगा।",
+    "theme": "karma",
+    "interpretation": "Action should be performed with mental balance regardless of the outcome. By detaching from results, one maintains focus and integrity during high-pressure tasks.",
+    "life_situation": "success"
+  },
+  {
+    "chapter": 2,
+    "verse": 41,
+    "sanskrit": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन | बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ||",
+    "transliteration": "vyavasāyātmikā buddhirekeha kurunandana | bahuśākhā hyanantāśca buddhayo'vyavasāyinām ||",
+    "translation": "The intellect of those who are resolute is focused on a single aim, O descendant of Kuru. The intellect of the irresolute is many-branched and endless.",
+    "hindi_translation": "निश्चयात्मक बुद्धि एक ही होती है, लेकिन जो अस्थिर हैं, उनकी बुद्धि अनेक शाखाओं वाली और अनंत होती है।",
+    "theme": "yoga",
+    "interpretation": "Single-pointed focus is the key to achievement. Indecision and scattering energy across too many goals lead to exhaustion and failure.",
+    "life_situation": "focus"
+  },
+  {
+    "chapter": 2,
+    "verse": 50,
+    "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते | तस्माद्योगाय युज्यस्व योग: कर्मसु कौशलम् ||",
+    "transliteration": "buddhiyukto jahātīha ubhe sukṛtaduṣkṛte | tasmādyogāya yujyasva yogaḥ karmasu kauśalam ||",
+    "translation": "One who is united with the divine intellect discards both good and bad deeds in this life. Therefore, strive for Yoga; Yoga is skill in action.",
+    "hindi_translation": "समबुद्धि वाला पुरुष पुण्य और पाप दोनों को इसी लोक में त्याग देता है। अतः योग में लग जाओ, कर्मों में कुशलता ही योग है।",
+    "theme": "yoga",
+    "interpretation": "True efficiency is not just finishing a task, but performing it with a balanced mind. When work is done as a spiritual practice, it becomes 'skillful' and leads to liberation.",
+    "life_situation": "success"
+  },
+  {
+    "chapter": 2,
+    "verse": 55,
+    "sanskrit": "प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् | आत्मन्येवात्मना तुष्ट: स्थितप्रज्ञस्तदोच्यते ||",
+    "transliteration": "prajahāti yadā kāmānsarvānpārtha manogatān | ātmanyevātmanā tuṣṭaḥ sthitaprajñastadocyate ||",
+    "translation": "When one discards all selfish desires of the mind, O Partha, and finds satisfaction in the self by the self alone, then one is said to be of steady wisdom.",
+    "hindi_translation": "जब मनुष्य मन की समस्त कामनाओं को त्याग देता है और अपनी आत्मा में ही संतुष्ट रहता है, तब वह 'स्थितप्रज्ञ' कहलाता है।",
+    "theme": "meditation",
+    "interpretation": "Happiness derived from external objects is fleeting. Sustainable peace comes from internal contentment and self-reliance.",
+    "life_situation": "peace"
+  },
+  {
+    "chapter": 2,
+    "verse": 64,
+    "sanskrit": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन् | आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति ||",
+    "transliteration": "rāgadveṣaviyuktaistu viṣayānindriyaiścaran | ātmavaśyairvidheyātmā prasādamadhigacchati ||",
+    "translation": "But the disciplined soul, moving among objects with senses free from attachment and aversion and under self-control, attains peace.",
+    "hindi_translation": "राग और द्वेष से रहित होकर, वश में की हुई इन्द्रियों द्वारा विषयों का भोग करने वाला मनुष्य शांति प्राप्त करता है।",
+    "theme": "yoga",
+    "interpretation": "It is not necessary to run away from the world; rather, one should engage with it without being controlled by likes and dislikes. This emotional neutrality brings serenity.",
+    "life_situation": "stress"
+  },
+  {
+    "chapter": 2,
+    "verse": 71,
+    "sanskrit": "विहाय कामान्य: सर्वान्पुमांश्चरति निःस्पृह: | निर्ममो निरहङ्कार: स शान्तिमधिगच्छति ||",
+    "transliteration": "vihāya kāmānyaḥ sarvānpumāṃścarati niḥspṛhaḥ | nirmamo nirahaṅkāraḥ sa śāntimadhigacchati ||",
+    "translation": "The person who gives up all desires and moves about without longing, without the sense of 'mine' and without ego, attains peace.",
+    "hindi_translation": "जो मनुष्य समस्त इच्छाओं को त्यागकर ममता रहित और अहंकार रहित होकर विचरता है, वही शांति पाता है।",
+    "theme": "yoga",
+    "interpretation": "Peace is the natural result of letting go of possessiveness and the ego's constant demands. Freedom from 'I' and 'Mine' leads to tranquility.",
+    "life_situation": "peace"
+  },
+  {
+    "chapter": 3,
+    "verse": 8,
+    "sanskrit": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मण: | शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मण: ||",
+    "transliteration": "niyataṃ kuru karma tvaṃ karma jyāyo hyakarmaṇaḥ | śarīrayātrāpi ca te na prasiddhyedakarmaṇaḥ ||",
+    "translation": "Perform your prescribed duty, for action is better than inaction. Even the maintenance of your body would not be possible through inaction.",
+    "hindi_translation": "तुम अपना नियत कर्म करो, क्योंकि कर्म न करने की अपेक्षा कर्म करना श्रेष्ठ है। कर्म के बिना तुम्हारा शरीर निर्वाह भी नहीं हो सकता।",
+    "theme": "karma",
+    "interpretation": "Productivity is a law of nature. Escapism or laziness is not spiritual; fulfilling one's responsibilities is the highest form of worship.",
+    "life_situation": "motivation"
+  },
+  {
+    "chapter": 3,
+    "verse": 10,
+    "sanskrit": "सहयज्ञा: प्रजा: सृष्ट्वा पुरोवाच प्रजापति: | अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ||",
+    "transliteration": "sahayajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ | anena prasaviṣyadhvameṣa vo'stviṣṭakāmadhuk ||",
+    "translation": "In the beginning, the Creator created mankind along with sacrifice and said: 'By this shall you prosper; this shall be the cow of plenty for you.'",
+    "hindi_translation": "सृष्टि के प्रारंभ में प्रजापति ने यज्ञ के साथ प्रजा को रचकर कहा कि इसके द्वारा तुम वृद्धि को प्राप्त हो, यह तुम्हारी इच्छित वस्तुओं को देने वाला हो।",
+    "theme": "karma",
+    "interpretation": "Prosperity comes through collective sacrifice and contribution. When we work for the benefit of others, nature provides for our needs.",
+    "life_situation": "purpose"
+  },
+  {
+    "chapter": 3,
+    "verse": 30,
+    "sanskrit": "मयि सर्वाणि कर्माणि सन्न्यस्याध्यात्मचेतसा | निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वर: ||",
+    "transliteration": "mayi sarvāṇi karmāṇi sannyasyādhyātmacetasā | nirāśīrnirmamo bhūtvā yudhyasva vigatajvaraḥ ||",
+    "translation": "Surrendering all works to Me, with your mind intent on the Supreme Self, free from desire and selfishness, fight, delivered from mental fever.",
+    "hindi_translation": "अपने सभी कर्मों को मुझमें अर्पित करके, आशा और ममता से रहित होकर, संताप रहित होकर युद्ध करो।",
+    "theme": "bhakti",
+    "interpretation": "Dedicate your career and efforts to a higher cause. By letting go of anxiety about the future, you can perform your best in the present moment.",
+    "life_situation": "stress"
+  },
+  {
+    "chapter": 3,
+    "verse": 37,
+    "sanskrit": "काम एष क्रोध एष रजोगुणसमुद्भव: | महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ||",
+    "transliteration": "kāma eṣa krodha eṣa rajoguṇasamudbhavaḥ | mahāśano mahāpāpmā viddhyenamiha vairiṇam ||",
+    "translation": "It is desire, it is anger, born of the mode of passion, all-devouring and very sinful; know this to be the enemy here.",
+    "hindi_translation": "रजोगुण से उत्पन्न होने वाला यह काम और क्रोध ही महापापी और शत्रु है, इसे ही अपना बैरी जानो।",
+    "theme": "yoga",
+    "interpretation": "Uncontrolled desire and anger are the primary obstacles to mental peace. Recognizing them as external enemies helps in managing impulsive behaviors.",
+    "life_situation": "anger"
+  },
+  {
+    "chapter": 3,
+    "verse": 43,
+    "sanskrit": "एवं बुद्धे: परं बुद्ध्वा संस्तभ्यात्मानमात्मना | जहि शत्रुं महाबाहो कामरूपं दुरासदम् ||",
+    "transliteration": "evaṃ buddheḥ paraṃ buddhvā saṃstābhyātmānamātmanā | jahi śatruṃ mahābāho kāmarūpaṃ durāsadam ||",
+    "translation": "Thus knowing Him who is beyond the intellect, and steadying the self by the self, O mighty-armed, slay the enemy in the form of desire, difficult to conquer.",
+    "hindi_translation": "बुद्धि से परे आत्मा को जानकर, अपने द्वारा अपने आप को स्थिर करके, हे महाबाहो! काम रूपी दुर्जेय शत्रु को मार डालो।",
+    "theme": "yoga",
+    "interpretation": "Self-mastery involves using higher intelligence to govern the lower impulses. Strengthening one's resolve allows for the conquest of self-destructive habits.",
+    "life_situation": "motivation"
+  },
+  {
+    "chapter": 4,
+    "verse": 11,
+    "sanskrit": "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् | मम वर्त्मानुवर्तन्ते मनुष्या: पार्थ सर्वश: ||",
+    "transliteration": "ye yathā māṃ prapadyante tāṃstathaiva bhajāmyaham | mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||",
+    "translation": "In whatever way men approach Me, even so do I reward them; My path do men tread in all ways, O Partha.",
+    "hindi_translation": "जो मुझे जिस प्रकार भजते हैं, मैं उन्हें वैसे ही फल देता हूँ। सभी मनुष्य सब प्रकार से मेरे ही मार्ग का अनुसरण करते हैं।",
+    "theme": "bhakti",
+    "interpretation": "Divinity is accessible through many paths. Whatever form of faith or sincere effort one pursues, the universe responds in kind, reflecting our own intentions.",
+    "life_situation": "purpose"
+  },
+  {
+    "chapter": 4,
+    "verse": 20,
+    "sanskrit": "त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रय: | कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति स: ||",
+    "transliteration": "tyaktvā karmaphalāsaṅgaṃ nityatṛpto nirāśrayaḥ | karmaṇyabhipravṛtto'pi naiva kiñcitkaroti saḥ ||",
+    "translation": "Having abandoned attachment to the fruits of action, ever content, depending on nothing, though engaged in action, he does not do anything at all.",
+    "hindi_translation": "कर्मफल की आसक्ति को त्यागकर, जो सदैव तृप्त और किसी पर आश्रित नहीं है, वह कर्म करते हुए भी वास्तव में कुछ नहीं करता।",
+    "theme": "karma",
+    "interpretation": "Mental detachment creates a state where work does not bind the individual. You can be highly active in the world while remaining internally free and untouched by results.",
+    "life_situation": "success"
+  },
+  {
+    "chapter": 4,
+    "verse": 22,
+    "sanskrit": "यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सर: | सम: सिद्धावसिद्धौ च कृत्वापि न निबध्यते ||",
+    "transliteration": "yadṛcchālābhasantuṣṭo dvandvātīto vimatsaraḥ | samaḥ siddhāvasiddhau ca kṛtvāpi na nibadhyate ||",
+    "translation": "Content with what comes to him without effort, free from the pairs of opposites and from envy, even-minded in success and failure, though acting, he is not bound.",
+    "hindi_translation": "जो अपने आप प्राप्त हुए लाभ में संतुष्ट रहता है, द्वन्द्वों से परे है और ईर्ष्या रहित है, वह सफलता-असफलता में समान रहकर कर्मों से नहीं बंधता।",
+    "theme": "karma",
+    "interpretation": "Gratitude for what we have and resilience in the face of duality (like heat/cold or joy/sorrow) prevents burnout. A jealous heart can never find peace.",
+    "life_situation": "gratitude"
+  },
+  {
+    "chapter": 5,
+    "verse": 3,
+    "sanskrit": "ज्ञेय: स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति | निर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते ||",
+    "transliteration": "jñeyaḥ sa nityasannyāsī yo na dveṣṭi na kāṅkṣati | nirdvandvo hi mahābāho sukhaṃ bandhātpramucyate ||",
+    "translation": "He should be known as a perpetual Sannyasi who neither hates nor desires; for, free from the pairs of opposites, O mighty-armed, he is easily set free from bondage.",
+    "hindi_translation": "जो न किसी से द्वेष करता है और न किसी की आकांक्षा, उसे नित्य संन्यासी समझना चाहिए। वह द्वन्द्वों से रहित होकर सुगमता से मुक्त हो जाता है।",
+    "theme": "jnana",
+    "interpretation": "Renunciation is not about wearing robes but about internal neutrality. If you stop reacting with extreme hatred or craving, you are effectively a liberated soul in the middle of everyday life.",
+    "life_situation": "relationships"
+  },
+  {
+    "chapter": 5,
+    "verse": 7,
+    "sanskrit": "योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रिय: | सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते ||",
+    "transliteration": "yogayukto viśuddhātmā vijitātmā jitendriyaḥ | sarvabhūtātmabhūtātmā kurvannapi na lipyate ||",
+    "translation": "He who is devoted to the path of action, whose mind is pure, who has conquered the self and the senses, and who realizes his self as the self in all beings, is not tainted though he acts.",
+    "hindi_translation": "जिसका मन शुद्ध है, जिसने इन्द्रियों को जीत लिया है और जो सभी प्राणियों में अपनी ही आत्मा देखता है, वह कर्म करते हुए भी लिप्त नहीं होता।",
+    "theme": "yoga",
+    "interpretation": "Empathy is a spiritual power. Seeing yourself in others changes how you act, turning every interaction into a moment of pure service rather than selfish gain.",
+    "life_situation": "relationships"
+  },
+  {
+    "chapter": 5,
+    "verse": 12,
+    "sanskrit": "युक्त: कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम् | अयुक्त: कामकारेण फले सक्तो निबध्यते ||",
+    "transliteration": "yuktaḥ karmaphalaṃ tyaktvā śāntimāpnoti naiṣṭhikīm | ayuktaḥ kāmakāreṇa phale sakto nibadhyate ||",
+    "translation": "The united one, having abandoned the fruit of action, attains eternal peace; the non-united, impelled by desire and attached to the fruit, is bound.",
+    "hindi_translation": "कर्मयोगी कर्मफल का त्याग करके शांति प्राप्त करता है, जबकि सकाम पुरुष कामना के कारण फल में आसक्त होकर बंध जाता है।",
+    "theme": "karma",
+    "interpretation": "Anxiety about outcomes is the biggest thief of peace. When we focus on the quality of our effort rather than the prize, we find lasting satisfaction.",
+    "life_situation": "stress"
+  },
+  {
+    "chapter": 5,
+    "verse": 21,
+    "sanskrit": "बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् | स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते ||",
+    "transliteration": "bāhyasparśeṣvasaktātmā vindatyātmani yatsukham | sa brahmayogayuktātmā sukhamakṣayamaśnute ||",
+    "translation": "With the self unattached to external contacts, he finds happiness in the Self; with the self engaged in the meditation of Brahman, he attains endless happiness.",
+    "hindi_translation": "बाहरी विषयों में आसक्ति न रखने वाला मनुष्य अपनी आत्मा में जो सुख पाता है, वह अक्षय होता है।",
+    "theme": "meditation",
+    "interpretation": "Material pleasures are dependent on external factors and thus temporary. True, inexhaustible joy is an internal resource discovered through meditation.",
+    "life_situation": "peace"
+  },
+  {
+    "chapter": 5,
+    "verse": 24,
+    "sanskrit": "योऽन्त:सुखोऽन्तरारामस्तथान्तर्ज्योतिरेव य: | स योगी ब्रह्मनिर्वाणम ब्रह्मभूतोऽधिगच्छति ||",
+    "transliteration": "yo'nta:sukho'ntarārāmastathāntarjyotireva yaḥ | sa yogī brahmanirvāṇama brahmabhūto'dhigacchati ||",
+    "translation": "He who is happy within, who rejoices within, and who is illuminated within, that Yogi becomes Brahman and goes to the Nirvana of Brahman.",
+    "hindi_translation": "जो अंतरात्मा में ही सुख वाला है, जो भीतर ही रमण करने वाला है और जिसे भीतर ही ज्ञान की ज्योति प्राप्त है, वह योगी ब्रह्म को प्राप्त होता है।",
+    "theme": "meditation",
+    "interpretation": "Enlightenment is an 'inside job.' By seeking validation and joy from within, one becomes immune to the highs and lows of the external environment.",
+    "life_situation": "purpose"
+  },
+  {
+    "chapter": 6,
+    "verse": 6,
+    "sanskrit": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जित: | अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ||",
+    "transliteration": "bandhurātmātmanastasya yenātmaivātmanā jitaḥ | anātmanastu śatrutve vartetātmaiva śatruvat ||",
+    "translation": "The Self is the friend of the self for him who has conquered himself by the Self, but to the unconquered self, the Self is very inimical, like an enemy.",
+    "hindi_translation": "जिसने अपने आप पर विजय प्राप्त कर ली है, उसका मन उसका मित्र है; लेकिन जो ऐसा नहीं कर पाया, उसका मन ही उसका शत्रु बन जाता है।",
+    "theme": "yoga",
+    "interpretation": "Your mind can be your greatest ally or your worst enemy. Disciplining your thoughts and habits turns your internal world into a supportive environment.",
+    "life_situation": "motivation"
+  },
+  {
+    "chapter": 6,
+    "verse": 7,
+    "sanskrit": "जितात्मन: प्रशान्तस्य परमात्मा समाहित: | शीतोष्णसुखदु:खेषु तथा मानापमानयौ: ||",
+    "transliteration": "jitātmanaḥ praśāntasya paramātmā samāhitaḥ | śītoṣṇasukhadu:kheṣu tathā mānāpamānayau: ||",
+    "translation": "To the self-controlled and serene, the Supreme Self is the object of constant realization, in cold and heat, pleasure and pain, honor and dishonor.",
+    "hindi_translation": "जिसने स्वयं को जीत लिया है, वह सर्दी-गर्मी, सुख-दुःख और मान-अपमान में भी शांत रहकर परमात्मा में स्थित रहता है।",
+    "theme": "meditation",
+    "interpretation": "A calm mind remains steady regardless of social reputation or physical discomfort. This stability is the mark of spiritual maturity.",
+    "life_situation": "peace"
+  },
+  {
+    "chapter": 6,
+    "verse": 16,
+    "sanskrit": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नत: | न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन ||",
+    "transliteration": "nātyaśnatastu yogo'sti na caikāntamanaśnataḥ | na cātisvapnaśīlasya jāgrato naiva cārjuna ||",
+    "translation": "Yoga is not for him who eats too much nor for him who eats too little; it is not for him who sleeps too much nor for him who keeps awake too much, O Arjuna.",
+    "hindi_translation": "हे अर्जुन! यह योग न तो बहुत अधिक खाने वाले के लिए है और न ही बिल्कुल न खाने वाले के लिए। न यह अधिक सोने वाले के लिए है, न जागने वाले के लिए।",
+    "theme": "yoga",
+    "interpretation": "Spirituality emphasizes the 'Middle Path.' Extremism in lifestyle leads to imbalance; moderation in all physical habits is the foundation for mental clarity.",
+    "life_situation": "stress"
+  },
+  {
+    "chapter": 6,
+    "verse": 17,
+    "sanskrit": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु | युक्तस्वप्नावबोधस्य योगो भवति दु:खहा ||",
+    "transliteration": "yuktāhāravihārasya yuktaceṣṭasya karmasu | yuktasvapnāvabodhasya yogo bhavati du:khahā ||",
+    "translation": "Yoga becomes the destroyer of pain for him who is moderate in eating and recreation, moderate in his exertion in work, and moderate in sleep and wakefulness.",
+    "hindi_translation": "जिसका आहार और विहार संतुलित है, जिसके कर्मों में चेष्टा नियमित है और जिसका सोना-जागना व्यवस्थित है, उसका योग दुखों का नाश करने वाला होता है।",
+    "theme": "yoga",
+    "interpretation": "A disciplined routine is the antidote to suffering. Balance in daily life (diet, work, rest) creates a stable platform for spiritual and professional growth.",
+    "life_situation": "stress"
+  },
+  {
+    "chapter": 6,
+    "verse": 22,
+    "sanskrit": "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं तत: | यस्मिन्स्थितो न दु:खेन गुरुणापि विचाल्यते ||",
+    "transliteration": "yaṃ labdhvā cāparaṃ lābhaṃ manyate nādhikaṃ tataḥ | yasminsthito na du:khena guruṇāpi vicālyate ||",
+    "translation": "Having obtained which, he thinks no other gain as greater than that, and wherein established, he is not shaken even by heavy sorrow.",
+    "hindi_translation": "जिसे प्राप्त करने के बाद वह किसी अन्य लाभ को उससे बड़ा नहीं मानता और जहाँ स्थित होकर वह बड़े से बड़े दुःख से भी विचलित नहीं होता।",
+    "theme": "meditation",
+    "interpretation": "The highest state of consciousness provides an unshakeable foundation. When you find deep meaning, even life's greatest tragedies cannot break your spirit.",
+    "life_situation": "grief"
+  },
+  {
+    "chapter": 6,
+    "verse": 35,
+    "sanskrit": "असंशयं महाबाहो मनो दुर्निग्रहं चलम् | अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ||",
+    "transliteration": "asaṃśayaṃ mahābāho mano durnigrahaṃ calam | abhyāsena tu kaunteya vairāgyeṇa ca gṛhyate ||",
+    "translation": "Undoubtedly, O mighty-armed, the mind is restless and difficult to control, but by practice and detachment, O son of Kunti, it can be restrained.",
+    "hindi_translation": "हे महाबाहो! निःसंदेह मन चंचल और कठिनता से वश में होने वाला है, किंतु अभ्यास और वैराग्य से इसे वश में किया जा सकता है।",
+    "theme": "meditation",
+    "interpretation": "Krishna acknowledges that controlling thoughts is hard. The solution is two-fold: consistent effort (practice) and learning to let go of distractions (detachment).",
+    "life_situation": "focus"
+  },
+  {
+    "chapter": 7,
+    "verse": 4,
+    "sanskrit": "भूमिरापोऽनलो वायु: खं मनो बुद्धिरेव च | अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा ||",
+    "transliteration": "bhūmirāpo'nalo vāyuḥ khaṃ mano buddhireva ca | ahaṅkāra itīyaṃ me bhinnā prakṛtiraṣṭadhā ||",
+    "translation": "Earth, water, fire, air, ether, mind, intellect, and ego—these are the eightfold divisions of My nature.",
+    "hindi_translation": "पृथ्वी, जल, अग्नि, वायु, आकाश, मन, बुद्धि और अहंकार—यह मेरी आठ प्रकार की विभाजित प्रकृति है।",
+    "theme": "jnana",
+    "interpretation": "This verse outlines the material and subtle components of the universe. Understanding that our mind and ego are just 'nature' helps us observe them without being overwhelmed.",
+    "life_situation": "purpose"
+  },
+  {
+    "chapter": 7,
+    "verse": 7,
+    "sanskrit": "मत्त: परतरं नान्यत्किञ्चिदस्ति धनञ्जय | मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ||",
+    "transliteration": "mattaḥ parataraṃ nānyatkiñcidasti dhanañjaya | mayi sarvamidaṃ protaṃ sūtre maṇigaṇā iva ||",
+    "translation": "There is nothing higher than Me, O Dhananjaya. All this is strung on Me like clusters of gems on a thread.",
+    "hindi_translation": "हे धनंजय! मेरे सिवाय अन्य कोई श्रेष्ठ कारण नहीं है। यह सम्पूर्ण जगत मुझमें वैसे ही गुंथा हुआ है जैसे धागे में मणियाँ।",
+    "theme": "bhakti",
+    "interpretation": "God is the invisible thread of unity in a diverse world. Realizing this connection helps us see the sacredness in every aspect of life and every person we meet.",
+    "life_situation": "gratitude"
+  },
+  {
+    "chapter": 7,
+    "verse": 8,
+    "sanskrit": "रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययौ: | प्रणव: सर्ववेदेषु शब्द: खे पौरुषं नृषु ||",
+    "transliteration": "raso'hamapsu kaunteya prabhāsmi śaśisūryayauḥ | praṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu ||",
+    "translation": "I am the sapidity in water, O son of Kunti; I am the light in the moon and the sun; I am the syllable Om in all the Vedas, sound in ether, and virility in men.",
+    "hindi_translation": "हे कौन्तेय! मैं जल में रस हूँ, चन्द्रमा और सूर्य में प्रकाश हूँ, सम्पूर्ण वेदों में 'ॐ' हूँ, आकाश में शब्द और मनुष्यों में पुरुषत्व हूँ।",
+    "theme": "bhakti",
+    "interpretation": "God is present in the essence of all things. By appreciating the beauty of nature and the talents of people, we are actually recognizing the divine at work.",
+    "life_situation": "gratitude"
+  },
+  {
+    "chapter": 8,
+    "verse": 7,
+    "sanskrit": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च | मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशय: ||",
+    "transliteration": "tasmātsarveṣu kāleṣu māmanusmara yudhya ca | mayyarpitamanobuddharmāmevaiṣyasyasaṃśayaḥ ||",
+    "translation": "Therefore, at all times, remember Me and fight. With your mind and intellect absorbed in Me, you shall doubtless come to Me alone.",
+    "hindi_translation": "इसलिए सब समय में मेरा स्मरण करो और युद्ध भी करो। मुझमें अर्पण किए हुए मन-बुद्धि से युक्त होकर तुम निःसंदेह मुझे ही प्राप्त होगे।",
+    "theme": "bhakti",
+    "interpretation": "Spirituality is not about leaving work; it's about remembering the higher purpose while working. Maintaining an inner connection with the divine while facing life's battles ensures success and peace.",
+    "life_situation": "motivation"
+  },
+  {
+    "chapter": 9,
+    "verse": 13,
+    "sanskrit": "महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिता: | भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ||",
+    "transliteration": "mahātmānastu māṃ pārtha daivīṃ prakṛtimāśritāḥ | bhajantyananyamanaso jñātvā bhūtādimavyayam ||",
+    "translation": "But the great souls, O Partha, partaking of My divine nature, worship Me with a single-pointed mind, knowing Me as the imperishable source of all beings.",
+    "hindi_translation": "हे पार्थ! दैवी प्रकृति के आश्रित महापुरुष मुझे सब भूतों का अविनाशी कारण जानकर अनन्य मन से भजते हैं।",
+    "theme": "bhakti",
+    "interpretation": "Greatness lies in aligning with divine qualities like compassion and truth. Focusing on the eternal rather than the trivial elevates a person's character and influence.",
+    "life_situation": "purpose"
+  },
+  {
+    "chapter": 9,
+    "verse": 18,
+    "sanskrit": "गतिर्भर्ता प्रभु: साक्षी निवास: शरणं सुहृत् | प्रभव: प्रलय: स्थानं निधानं बीजमव्ययम् ||",
+    "transliteration": "gatirbhartā prabhuḥ sākṣī nivāsaḥ śaraṇaṃ suhṛt | prabhavaḥ pralayaḥ sthānaṃ nidhānaṃ bījamavyayam ||",
+    "translation": "I am the Goal, the Sustainer, the Lord, the Witness, the Abode, the Shelter, the Friend, the Origin, the Dissolution, the Stay, the Treasure-house, and the Seed imperishable.",
+    "hindi_translation": "मैं ही गति, भर्ता, स्वामी, साक्षी, निवास, शरण और मित्र हूँ। मैं ही उत्पत्ति, प्रलय, स्थान, निधान और अविनाशी बीज हूँ।",
+    "theme": "bhakti",
+    "interpretation": "God fulfills every role we might need in life. Realizing that the ultimate friend and protector is always with us removes the fear of loneliness or failure.",
+    "life_situation": "fear"
+  },
+  {
+    "chapter": 9,
+    "verse": 30,
+    "sanskrit": "अपि चेत्सुदुराचारो भजते मामनन्यभाक् | साधुरेव स मन्तव्य: सम्यग्व्यवसितो हि स: ||",
+    "transliteration": "api cetsudurācāro bhajate māmananyabhāk | sādhureva sa mantavyaḥ samyagvyavasito hi saḥ ||",
+    "translation": "Even if the most sinful person worships Me with undivided devotion, he must be regarded as righteous, for he has rightly resolved.",
+    "hindi_translation": "यदि कोई अतिशय दुराचारी भी अनन्य भाव से मेरा भक्त होकर मुझे भजता है, तो वह साधु ही मानने योग्य है क्योंकि उसने सही निश्चय कर लिया है।",
+    "theme": "bhakti",
+    "interpretation": "No one is beyond redemption. A sincere shift in intention and a commitment to a higher path can transform anyone's life instantly.",
+    "life_situation": "motivation"
+  },
+  {
+    "chapter": 9,
+    "verse": 31,
+    "sanskrit": "क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति | कौन्तेय प्रतिजानीहि न मे भक्त: प्रणश्यति ||",
+    "transliteration": "kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati | kaunteya pratijānīhi na me bhaktaḥ praṇaśyati ||",
+    "translation": "Soon he becomes righteous and attains eternal peace. O son of Kunti, know for certain that My devotee never perishes.",
+    "hindi_translation": "वह शीघ्र ही धर्मात्मा हो जाता है और परम शांति को प्राप्त होता है। हे कौन्तेय! निश्चयपूर्वक जानो कि मेरे भक्त का कभी विनाश नहीं होता।",
+    "theme": "bhakti",
+    "interpretation": "Commitment to truth and divinity provides a safety net. Even if we stumble, our sincere dedication ensures we eventually find our way back to peace and integrity.",
+    "life_situation": "fear"
+  },
+  {
+    "chapter": 10,
+    "verse": 10,
+    "sanskrit": "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् | ददामि Buddhi-yogaṃ तं येन मामुपयान्ति ते ||",
+    "transliteration": "teṣāṃ satatayuktānāṃ bhajatāṃ prītipūrvakam | dadāmi buddhi-yogaṃ taṃ yena māmupayānti te ||",
+    "translation": "To those ever-steadfast and worshipping Me with love, I give that Yoga of Wisdom by which they come to Me.",
+    "hindi_translation": "उन निरंतर मुझसे जुड़े हुए और प्रेमपूर्वक भजने वाले भक्तों को मैं वह बुद्धि-योग देता हूँ, जिससे वे मुझे प्राप्त करते हैं।",
+    "theme": "bhakti",
+    "interpretation": "Wisdom is a gift that flows to a heart full of love and devotion. When our intentions are pure, the universe provides the clarity needed to make the right choices.",
+    "life_situation": "decision_making"
+  },
+  {
+    "chapter": 11,
+    "verse": 33,
+    "sanskrit": "तस्मात्त्वमुत्तिष्ठ यशो लभस्व जित्वा शत्रून्भुङ्क्ष्व राज्यं समृद्धम् | मयैवैते निहता: पूर्वमेव निमित्तमात्रं भव सव्यसाचिन् ||",
+    "transliteration": "tasmāttvamuttiṣṭha yaśo labhasva jitvā śatrūnbhuṅkṣva rājyaṃ samṛddham | mayaivaite nihatāḥ pūrvameva nimittamātraṃ bhava savyasācin ||",
+    "translation": "Therefore, stand up and win glory. Conquer your enemies and enjoy an opulent kingdom. These are already slain by Me; be you a mere instrument, O Savyasachin (Arjuna).",
+    "hindi_translation": "अतः तुम उठो और यश प्राप्त करो। शत्रुओं को जीतकर समृद्ध राज्य का उपभोग करो। ये सब पहले ही मेरे द्वारा मारे जा चुके हैं, तुम तो केवल निमित्त मात्र बन जाओ।",
+    "theme": "karma",
+    "interpretation": "We are often just instruments of a larger cosmic plan. Understanding this relieves us of the 'burden of doership' while motivating us to perform our best as part of a grander design.",
+    "life_situation": "purpose"
+  },
+  {
+    "chapter": 12,
+    "verse": 12,
+    "sanskrit": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते | ध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् ||",
+    "transliteration": "śreyo hi jñānamabhyāsājjñānāddhyānaṃ viśiṣyate | dhyānātkarmaphalatyāgastyāgācchāntiranantaram ||",
+    "translation": "Better indeed is knowledge than mechanical practice; better than knowledge is meditation; better than meditation is the renunciation of the fruit of action; peace immediately follows renunciation.",
+    "hindi_translation": "अभ्यास से ज्ञान श्रेष्ठ है, ज्ञान से ध्यान श्रेष्ठ है, और ध्यान से कर्मफल का त्याग श्रेष्ठ है; क्योंकि त्याग से तत्काल शांति मिलती है।",
+    "theme": "yoga",
+    "interpretation": "The quickest path to mental peace is letting go of the obsession with results. While study and meditation are vital, the practical application of detachment in work brings instant relief.",
+    "life_situation": "stress"
+  },
+  {
+    "chapter": 12,
+    "verse": 15,
+    "sanskrit": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च य: | हर्षामर्षभयोद्वेगैर्मुक्तो य: स च मे प्रिय: ||",
+    "transliteration": "yasmānnodvijate loko lokānnodvijate ca yaḥ | harṣāmarṣabhayodvegairmukto yaḥ sa ca me priyaḥ ||",
+    "translation": "He by whom the world is not agitated and who cannot be agitated by the world, and who is free from joy, envy, fear, and anxiety—he is dear to Me.",
+    "hindi_translation": "जिससे कोई भी जीव उद्विग्न नहीं होता और जो स्वयं किसी जीव से उद्विग्न नहीं होता, तथा जो हर्ष, ईर्ष्या, भय और चिन्ता से मुक्त है, वह मुझे प्रिय है।",
+    "theme": "bhakti",
+    "interpretation": "Emotional maturity means being neither a source of stress for others nor being easily stressed by them. Stability amidst social and emotional turbulence is a high spiritual achievement.",
+    "life_situation": "relationships"
+  },
+  {
+    "chapter": 13,
+    "verse": 33,
+    "sanskrit": "यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते | सर्वत्रावस्थितो देहे तथात्मा नोपलिप्यते ||",
+    "transliteration": "yathā sarvagataṃ saukṣmyādākāśaṃ nopalipyate | sarvatrāvasthito dehe tathātmā nopalipyate ||",
+    "translation": "As the all-pervading ether is not tainted because of its subtlety, so the Self seated everywhere in the body is not tainted.",
+    "hindi_translation": "जैसे सर्वव्यापी आकाश अपनी सूक्ष्मता के कारण लिप्त नहीं होता, वैसे ही शरीर में सर्वत्र स्थित आत्मा भी लिप्त नहीं होती।",
+    "theme": "jnana",
+    "interpretation": "Our core essence remains pure despite our mistakes or physical conditions. Realizing our 'inner sky' is always clear helps us recover from failures and self-criticism.",
+    "life_situation": "grief"
+  },
+  {
+    "chapter": 14,
+    "verse": 17,
+    "sanskrit": "सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च | प्रमादमोहौ तमसो भवतोऽज्ञानमेव च ||",
+    "transliteration": "sattvātsañjāyate jñānaṃ rajaso lobha eva ca | pramādamohau tamaso bhavato'jñānameva ca ||",
+    "translation": "From Sattva arises knowledge; from Rajas, greed; and from Tamas arise heedlessness and delusion, and also ignorance.",
+    "hindi_translation": "सत्त्वगुण से ज्ञान उत्पन्न होता है, रजोगुण से लोभ, और तमोगुण से प्रमाद, मोह और अज्ञान उत्पन्न होते हैं।",
+    "theme": "jnana",
+    "interpretation": "Our mental quality determines our experience. Cultivating 'Sattva' (purity/clarity) leads to wisdom, while falling into 'Rajas' (passion) or 'Tamas' (sloth) leads to suffering and confusion.",
+    "life_situation": "focus"
+  },
+  {
+    "chapter": 15,
+    "verse": 5,
+    "sanskrit": "निर्मानमोहा जितसङ्गदोषा अध्यात्मनित्या विनिवृत्तकामा: | द्वन्द्वैर्विमुक्ता: सुखदु:खसंज्ञैर्गच्छन्त्यमूढा: पदमव्ययं तत् ||",
+    "transliteration": "nirmānamohā jitasaṅgadoṣā adhyātmanityā vinivṛttakāmāḥ | dvandvairvimuktāḥ sukhadu:khasaṃjñairgacchantyamūḍhāḥ padamavyayaṃ tat ||",
+    "translation": "Free from pride and delusion, with the evil of attachment conquered, ever dwelling in the Self, their desires being completely stilled, liberated from the pairs of opposites known as pleasure and pain, the undeluded reach that eternal goal.",
+    "hindi_translation": "जो मान और मोह से रहित हैं, जिन्होंने आसक्ति के दोष को जीत लिया है, जो परमात्मा में स्थित हैं और सुख-दुःख से मुक्त हैं, वे उस अविनाशी पद को प्राप्त करते हैं।",
+    "theme": "jnana",
+    "interpretation": "The path to the ultimate goal involves shedidng ego and attachment. By becoming indifferent to the polarities of life, one gains access to a higher, more stable state of existence.",
+    "life_situation": "purpose"
+  },
+  {
+    "chapter": 16,
+    "verse": 1,
+    "sanskrit": "अभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थिति: | दानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ||",
+    "transliteration": "abhayaṃ sattvasaṃśuddhirjñānayogavyavasthitiḥ | dānaṃ damaśca yajñaśca svādhyāyastapa ārjavam ||",
+    "translation": "Fearlessness, purity of heart, steadfastness in knowledge and Yoga, almsgiving, control of the senses, sacrifice, study of the scriptures, austerity, and straightforwardness...",
+    "hindi_translation": "निर्भयता, अन्तःकरण की शुद्धि, ज्ञान-योग में दृढ़ता, दान, इन्द्रिय दमन, यज्ञ, स्वाध्याय, तप और सरलता...",
+    "theme": "yoga",
+    "interpretation": "These are the qualities of a divine nature. Developing fearlessness and integrity is essential for leadership and personal growth.",
+    "life_situation": "motivation"
+  },
+  {
+    "chapter": 17,
+    "verse": 15,
+    "sanskrit": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् | स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ||",
+    "transliteration": "anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat | svādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate ||",
+    "translation": "Speech which causes no excitement, and is true, as also pleasant and beneficial, and also the practice of sacred recitation, is said to be the austerity of speech.",
+    "hindi_translation": "जो उद्वेग न करने वाला, सत्य, प्रिय और हितकारी भाषण है, तथा जो स्वाध्याय का अभ्यास है, वह वाणी का तप कहलाता है।",
+    "theme": "yoga",
+    "interpretation": "Discipline of speech is a powerful tool. Speaking truth in a way that is kind and helpful prevents unnecessary conflict and builds strong, trusting relationships.",
+    "life_situation": "relationships"
+  },
+  {
+    "chapter": 17,
+    "verse": 16,
+    "sanskrit": "मन:प्रसाद: सौम्यत्वं मौनमात्मविनिग्रह: | भावसंशुद्धिरित्येतत्तपो मानसमुच्यते ||",
+    "transliteration": "mana:prasādaḥ saumyatvaṃ maunamātmavinigrahaḥ | bhāvasaṃśuddhirityetattapo mānasamucyate ||",
+    "translation": "Serenity of mind, good-heartedness, silence, self-control, and purity of nature—this is called the mental austerity.",
+    "hindi_translation": "मन की प्रसन्नता, सौम्यता, मौन, आत्म-संयम और भावों की शुद्धि—यह मन का तप कहा जाता है।",
+    "theme": "meditation",
+    "interpretation": "Mental health requires active effort. Choosing to stay cheerful and maintaining internal silence are forms of 'austerity' that lead to deep psychological strength.",
+    "life_situation": "peace"
+  },
+  {
+    "chapter": 18,
+    "verse": 20,
+    "sanskrit": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते | अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम् ||",
+    "transliteration": "sarvabhūteṣu yenaikaṃ bhāvamavyayamīkṣate | avibhaktaṃ vibhakteṣu tajjñānaṃ viddhi sāttvikam ||",
+    "translation": "That by which one sees the one imperishable Being in all beings, undivided in the divided, know that knowledge to be Sattvic (pure).",
+    "hindi_translation": "जिस ज्ञान से मनुष्य पृथक-पृथक सब प्राणियों में एक ही अविनाशी भाव को देखता है, उस ज्ञान को सात्त्विक जानो।",
+    "theme": "jnana",
+    "interpretation": "The highest knowledge is the ability to see the underlying unity in diversity. Recognizing the shared humanity and divinity in everyone eliminates prejudice and hatred.",
+    "life_situation": "relationships"
+  },
+  {
+    "chapter": 18,
+    "verse": 48,
+    "sanskrit": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् | सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृता: ||",
+    "transliteration": "sahajaṃ karma kaunteya sadoṣamapi na tyajet | sarvārambhā hi doṣeṇa dhūmenāgnirivāvṛtāḥ ||",
+    "translation": "One should not abandon the duty to which one is born, O son of Kunti, though it be attended with evil; for all undertakings are enveloped by evil, as fire by smoke.",
+    "hindi_translation": "हे कौन्तेय! स्वभाव से नियत कर्म को दोषयुक्त होने पर भी नहीं त्यागना चाहिए, क्योंकि जैसे आग धुएँ से ढकी रहती है, वैसे ही सभी कर्म किसी न किसी दोष से घिरे होते हैं।",
+    "theme": "dharma",
+    "interpretation": "No job is perfect; every path has its challenges and flaws. Success comes not from finding a 'perfect' situation, but from committing to your natural path despite its inherent difficulties.",
+    "life_situation": "motivation"
+  },
+  {
+    "chapter": 18,
+    "verse": 58,
+    "sanskrit": "मच्चित्त: सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि | अथ चेत्त्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि ||",
+    "transliteration": "maccittaḥ sarvadurgāṇi matprasādāttariṣyasi | atha cettvamahaṅkārānna śroṣyasi vinaṅkṣyasi ||",
+    "translation": "Fixing your mind on Me, you shall, by My grace, overcome all obstacles; but if from egoism you will not hear Me, you shall perish.",
+    "hindi_translation": "मुझमें चित्त लगाकर तुम मेरी कृपा से सभी कठिनाइयों को पार कर जाओगे। लेकिन यदि अहंकार के कारण तुम नहीं सुनोगे, तो तुम्हारा विनाश हो जाएगा।",
+    "theme": "bhakti",
+    "interpretation": "Humility and divine connection are the best strategies for problem-solving. Letting go of the ego allows higher guidance to help us navigate life's toughest challenges.",
+    "life_situation": "stress"
+  },
+  {
+    "chapter": 18,
+    "verse": 61,
+    "sanskrit": "ईश्वर: सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति | भ्रामयन्सर्वभूताणि यन्त्रारूढानि मायया ||",
+    "transliteration": "īśvaraḥ sarvabhūtānāṃ hṛddeśe'rjuna tiṣṭhati | bhrāmayansarvabhūtāṇi yantrārūḍhāni māyayā ||",
+    "translation": "The Lord dwells in the hearts of all beings, O Arjuna, causing all beings, by His illusive power, to revolve as if mounted on a machine.",
+    "hindi_translation": "हे अर्जुन! ईश्वर सभी प्राणियों के हृदय में स्थित है और अपनी माया से उन्हें यंत्र पर चढ़े हुए की तरह घुमाता रहता है।",
+    "theme": "jnana",
+    "interpretation": "There is a divine presence within everyone, guiding the unfolding of life. Recognizing this helps us let go of the need to control everything and trust the cosmic flow.",
+    "life_situation": "purpose"
+  }
+]
