@@ -24,7 +24,7 @@ jobs:
       - name: Build APK
         run: |
           buildozer init
-          sed -i 's/^requirements =.*/requirements = python3,kivy==2.3.0,plyer/' buildozer.spec
+          sed -i 's/^requirements =.*/requirements = python3==3.12,kivy==2.3.0,plyer/' buildozer.spec
           sed -i 's/^android.api =.*/android.api = 33/' buildozer.spec
           sed -i 's/^android.minapi =.*/android.minapi = 21/' buildozer.spec
           sed -i 's/^android.arch =.*/android.archs = arm64-v8a/' buildozer.spec
